@@ -1800,6 +1800,11 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 
    *Julius Berner, Miguel Liu-Schiaffini, Jean Kossaifi, Valentin Duruisseaux, Boris Bonev, Kamyar Azizzadenesheli, and Anima Anandkumar.*
 
+1. **Zero-shot generalization of transformer neural operators to larger domains.** arXiv, 2026. [paper](https://arxiv.org/abs/2606.14597)
+
+   *Armand de Villeroché, Sibo Cheng, Vincent Le Guen, Marc Bocquet, Rem-Sophia Mouradi, Patrick Armand, Alban Farchi, and Patrick Massin.*
+ 
+
 <!-- 1. **Learning Data-Efficient and Generalizable Neural Operators via Fundamental Physics Knowledge.** ICLR, 2026. [paper](https://openreview.net/forum?id=mJiPqOzc3O)
 -->
 
@@ -3696,6 +3701,13 @@ For searching recent works in top venues (ICLR, NeurIPS, etc.), we recommend usi
 1. **Learning Composable Energy Surrogates for PDE Order Reduction.** NeurIPS, 2020. [paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/0332d694daab22e0e0eaf7a5e88433f9-Paper.pdf)
 
    *Alex Beatson, Jordan T. Ash, Geoffrey Roeder, Tianju Xue, and Ryan P. Adams.* 
+
+1. **Neural-Schwarz Tiling for Geometry-Universal PDE Solving at Scale.** arxiv, 2026. [paper](https://arxiv.org/abs/2605.12343)
+
+   *Paolo Secchi, Daniel S. Balint, and Marco Maurizi.* 
+
+
+
 
 ### [Disentangle](#content)
 1. **PDE-driven spatiotemporal disentanglement.** ICLR, 2021. [paper](https://openreview.net/forum?id=vLaHRtHvfFp)
